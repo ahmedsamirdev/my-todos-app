@@ -20,7 +20,7 @@ A simple todo app to help you what you want to do.
 * Hide completed todos.
 * Remove a todo.
 * Count of all todos you have.
-* Auto store your todos after done.
+* Auto store your todos after done (Local Storage).
 
 ### [Demo](https://my-todos-app.vercel.app/)
 
