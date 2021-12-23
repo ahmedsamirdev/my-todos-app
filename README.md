@@ -4,7 +4,7 @@ A simple todo app to help you what you want to do.
 
 
 
-### Description
+### Tech stack
 
 * HTML
 * CSS
