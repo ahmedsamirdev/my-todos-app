@@ -22,5 +22,5 @@ A simple todo app to help you what you want to do.
 * Count of all todos you have.
 * Auto store your todos after done (Local Storage).
 
-### [Demo](https://my-todos-app.vercel.app/)
+### [Live Preview](https://my-todos-app.vercel.app/)
 
